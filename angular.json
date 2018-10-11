@@ -23,8 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "C:/Users/DELL/Desktop/xyz/VideoPlayer/node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "C:/Users/DELL/Desktop/abc/VideoPlayer/src/styles.css",
+              "C:/Users/DELL/Desktop/abc/VideoPlayer/node_modules/bootstrap/dist/css/bootstrap.min.css"
              ],
             "scripts": []
           },
